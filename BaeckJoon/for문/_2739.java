@@ -1,4 +1,4 @@
-package BaeckJoon.if문;
+package BaeckJoon.for문;
 
 import java.util.Scanner;
 
