@@ -8,7 +8,8 @@ public class _1330 {
         int a,b;
         a = sc.nextInt();
         b = sc.nextInt();
-
+        sc.close();
+        
         if(a > b){
             System.out.println(">");
         }else if(a < b){
