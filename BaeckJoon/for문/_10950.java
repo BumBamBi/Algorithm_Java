@@ -22,5 +22,6 @@ public class _10950 {
         for(int i : arr){
             System.out.println(i);
         }
+        sc.close();
     }
 }
