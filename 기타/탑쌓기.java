@@ -26,8 +26,6 @@ public class 탑쌓기 {
                 cost[i] = sc.nextInt();
             }
             
-            boolean[] used = new boolean[N];
-            
             Arrays.sort(cost);
 
             int minHeight = Math.min(M1, M2);
